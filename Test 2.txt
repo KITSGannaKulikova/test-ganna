@@ -1,6 +1,5 @@
 line 4
 test line 6 (branch commit)
-<<<<<<< HEAD
 test line 6 again
 test master branch
 test test test test test
